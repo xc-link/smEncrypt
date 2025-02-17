@@ -21,6 +21,6 @@
     "sm-crypto": "^0.0.6",
     "webpack": "^4.17.2",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.7"
+    "webpack-dev-server": "^5.2.0"
   }
 }
